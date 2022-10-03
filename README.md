@@ -16,7 +16,7 @@ It is always a tedious and boring task to write test cases, which takes most of 
 
 
 ## :bulb: Sample Test Cases and templates are added for the following:
-- Generic field level test cases for Textbox, Dropdown-box/Multi-Dropdownbox, Checkbox, Radio button, Submit/Save/Cancel button and Date fields,
+- Generic field level test cases for Textbox, Dropdown-box/Multi-Dropdownbox, Checkbox, Radio button, Submit/Save/Cancel button and Date fields, Slider
 - Sample Test cases for Export Functionality.
 - Sample Test cases for Import Functionality.
 - Sample Test cases for Testing reports.
